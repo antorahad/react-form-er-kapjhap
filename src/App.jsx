@@ -1,5 +1,6 @@
 import './App.css'
 import From from './components/From'
+import Hookform from './components/Hookform'
 import Refrom from './components/Refrom'
 import StatefullFrom from './components/StatefullFrom'
 
@@ -9,7 +10,8 @@ function App() {
     <>
     {/* <From></From> */}
     {/* <StatefullFrom></StatefullFrom> */}
-    <Refrom></Refrom>
+    {/* <Refrom></Refrom> */}
+    <Hookform></Hookform>
     </>
   )
 }
