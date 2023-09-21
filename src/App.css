@@ -40,3 +40,33 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.dadaji{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.bakira{
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.single{
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
